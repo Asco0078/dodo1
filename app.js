@@ -21,8 +21,6 @@ const dataPizza = [
         image: "https://media.dodostatic.net/image/r:233x233/11EF3DB2188200718EDEB6D5EC3E3ECD.avif",
         price: 495,
     },
-
-
     {
         pizzaName: "Сырная",
         description: "Моцарелла, смесь сыров чеддер и пармезан, соус альфредо",
